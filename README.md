@@ -4,7 +4,7 @@
 Contains a PowerPoint presentation and a Jupyter notebook related to the GANformer paper. The presentation provides insights into the paper, while the Jupyter notebook demonstrates how to perform inference using the GANformer model.
 
 ## Contents 
-- GANformer_Presentation.pptx: The PowerPoint presentation file.
+- GANformer_Presentation.pdf: The PowerPoint presentation file.
 - GANformer_Inference.ipynb: The Jupyter notebook for performing inference with GANformer.
 
 ## Presentation Highlights
